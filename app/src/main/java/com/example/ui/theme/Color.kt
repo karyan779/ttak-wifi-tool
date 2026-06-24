@@ -17,9 +17,9 @@ val DarkBackground = Color(0xFF0F172A)
 val DarkSurface = Color(0xFF1E293B)
 val DarkSurfaceVariant = Color(0xFF334155)
 
-val LightBackground = Color(0xFFF8FAFC)
-val LightSurface = Color(0xFFFFFFFF)
-val LightSurfaceVariant = Color(0xFFF1F5F9)
+val LightBackground = Color(0xFFE2E8F0) // Softer light grey/blue
+val LightSurface = Color(0xFFF1F5F9) // Slightly off-white
+val LightSurfaceVariant = Color(0xFFCBD5E1)
 
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
